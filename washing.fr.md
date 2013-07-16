@@ -1,4 +1,3 @@
-
  - brosses à dents
  - dentifrice
  - savon
@@ -7,3 +6,4 @@
  - élastiques-barettes
  - toute petite serviette
  - coupe-ongles
+ - crème solaire
