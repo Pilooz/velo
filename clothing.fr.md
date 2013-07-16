@@ -1,5 +1,5 @@
 ## été
-### Par personnes
+### Par personne
 - pyjama (1)
  - tee-shirts (2)
  - shorts de vélo (2)
