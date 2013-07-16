@@ -1,0 +1,15 @@
+ - Réchaud
+ - Cartouche gaz
+ - briquet
+ - sel/poivre
+ - huile d'olives
+ - Bouillons cubes
+ - Popote
+ - Bol
+ - verre résistant au chaud (1 / personne)
+ - Couverts : Spork (= Cuillère + fourchette)
+ - Couteau (Un seul suffit)
+ - Sangle et sac
+ - Torchon vaisselle
+ - Liquide vaisselle (30 ml)
+ - Poignée de casserole solide
