@@ -1,0 +1,5 @@
+- Batterie USB
+- Panneau Solaire USB 
+- Chargeur USB
+- Câble multi smartphone
+- Multiprise 240V (pour brancher plusieurs chargeurs si on ne peut pas mutualiser)
