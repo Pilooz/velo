@@ -1,7 +1,8 @@
 ## été
 ### Par personne
  - pyjama (1) -> tee-shirt + caleçon
- - tee-shirts (2 ou 3) 
+ - tee-shirts (2 ou 3)
+ - kikoy (1) 
  - shorts de vélo (1 ou 2) 
  - pantalon ou caleçon long (1) 
  - sweat-shirt (1) 
