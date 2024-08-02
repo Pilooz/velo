@@ -1,6 +1,6 @@
 ## été
 ### Par personne
- - pyjama (1) -> tee-shirt + caleçon
+ - pyjama (1) -> tee-shirt + caleçon + chausettes de laine montantes
  - tee-shirts (2 ou 3)
  - kikoy (1) 
  - shorts de vélo (1 ou 2) 
